@@ -6,17 +6,17 @@ Download and Unzip These Files <br>
 
 ## Installing Games
 1. Download and Unzip the game you want to download
-2. Navigate to `Microlua/lua/scripts` and place it in there
+2. Navigate to `MicroLua 4.7.2/lua/scripts` and place it in there
 
 ## Playing Games
 
 **Open Desmume**<br>
 
-Open the config menu and click GBA Slot.<br>
+1. Open the config menu and click GBA Slot.<br>
 ![VERYCOOL](https://cdn.discordapp.com/attachments/980621690809757758/1079542554460180520/image.png "GAY!")
 
-Choose the Microlua folder with the Microlua NDS file.<br>
+2. Choose the Microlua folder with the Microlua NDS file.<br>
 ![VERYCOOL](https://cdn.discordapp.com/attachments/1059666289896980592/1076046375415980084/image.png "GAY!")
 
-Open the microlua ROM and navigate to the lua file to the game you wanna play, usually called `main.lua`.<br>
+3. Open the microlua ROM and navigate to the lua file to the game you wanna play, usually called `main.lua`.<br>
 ![VERYCOOL](https://cdn.discordapp.com/attachments/1059666289896980592/1076046892745637888/image.png "GAY!")
