@@ -1,7 +1,7 @@
 # How-to-play-MicroLua-games-on-PC
 
 Download and Unzip These Files <br>
-[Micro Lua](https://cdn.discordapp.com/attachments/1059666289896980592/1177400238974185627/MicroLua-4.7.2.zip?ex=65725e6c&is=655fe96c&hm=4f0be4f1a29445597e4ec095b97eb16d69686f5856ee0df3488b5b27dd28b673&)) <br>
+[Micro Lua](https://cdn.discordapp.com/attachments/1059666289896980592/1177400238974185627/MicroLua-4.7.2.zip?ex=65725e6c&is=655fe96c&hm=4f0be4f1a29445597e4ec095b97eb16d69686f5856ee0df3488b5b27dd28b673&) <br>
 [Desmume](https://github.com/TASEmulators/desmume/releases/tag/release_0_9_13)
 
 ## Installing Games
